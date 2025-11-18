@@ -1,2 +1,6 @@
 line1
+<<<<<<< HEAD
 main work
+=======
+feature work
+>>>>>>> 80ee4c2 (feature commit)
