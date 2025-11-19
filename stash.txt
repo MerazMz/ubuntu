@@ -1,1 +1,2 @@
 stash file created
+new content from stash branch
