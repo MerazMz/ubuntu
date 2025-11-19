@@ -1,2 +1,3 @@
 stash file created
+new content from stash branch
 edited stash text in main 
